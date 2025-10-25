@@ -33,7 +33,7 @@ Mi primer acercamiento a la programación fue con **Excel**, y desde entonces su
 | Proyecto | Descripción | Imagen/GIF | Link |
 | Proyecto | Descripción | GIF/Imagen | Link |
 |----------|-------------|------------|------|
-| **SmartDomotic** | Sistema de domótica en Python y Arduino, control de luces, motores y sensores vía Bluetooth. | ![SmartDomotic](assets/images/smartdomotic.gif) | [Repo](https://github.com/tuusuario/smartdomotic) |
+| **SmartDomotic** | Sistema de domótica en Python y Esp32, control de luces, motores y sensores vía WiFi y Bluetooth. | ![SmartDomotic](assets/images/smartdomotic.gif) | [Repo](https://github.com/tuusuario/smartdomotic) |
 | **Tienda** | Aplicación de escritorio para gestión de productos, ventas y usuarios, con interfaz intuitiva. | ![Tienda](assets/images/tienda.png) | [Repo](https://github.com/tuusuario/tienda) |
 | **Taquería “El Becero de Oro Jr.”** | Sistema de pedidos por mesas y categorías, optimizado para entornos de venta presencial. | ![Taqueria](assets/images/taqueria.png) | [Repo](https://github.com/tuusuario/taqueria) |
 | **Reconocimiento Facial** | Módulo experimental integrado con la domótica para control de acceso y seguridad. | ![FaceRec](assets/images/facerec.gif) | [Repo](https://github.com/tuusuario/facerec) |
