@@ -13,7 +13,6 @@ Mi primer acercamiento a la programación fue con **Excel**, y desde entonces su
 ## 🧠 Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Flet](https://img.shields.io/badge/Flet-38BDF8?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -38,13 +37,7 @@ Mi primer acercamiento a la programación fue con **Excel**, y desde entonces su
 | **Tienda** | Aplicación de escritorio para gestión de productos, ventas y usuarios, con interfaz intuitiva. | ![Tienda](assets/images/tienda.png) | [Repo](https://github.com/tuusuario/tienda) |
 | **Taquería “El Becero de Oro Jr.”** | Sistema de pedidos por mesas y categorías, optimizado para entornos de venta presencial. | ![Taqueria](assets/images/taqueria.png) | [Repo](https://github.com/tuusuario/taqueria) |
 | **Reconocimiento Facial** | Módulo experimental integrado con la domótica para control de acceso y seguridad. | ![FaceRec](assets/images/facerec.gif) | [Repo](https://github.com/tuusuario/facerec) |
-| **SmartDomotic** | Domótica completa con Python y Arduino, control de luces, motores y sensores vía Bluetooth. | ![SmartDomotic](assets/images/smartdomotic.gif) | [Repo](https://github.com/tuusuario/smartdomotic) |
-| **Tienda** | Gestión de productos, ventas y usuarios con interfaz intuitiva para administradores y vendedores. | ![Tienda](assets/images/tienda.gif) | [Repo](https://github.com/tuusuario/tienda) |
-| **Taquería “El Becero de Oro Jr.”** | Sistema de pedidos por mesas y categorías, optimizado para venta presencial. | ![Taqueria](assets/images/taqueria.gif) | [Repo](https://github.com/tuusuario/taqueria) |
-| **Reconocimiento Facial** | Módulo experimental para control de acceso y seguridad integrado con la domótica. | ![FaceRec](assets/images/facerec.gif) | [Repo](https://github.com/tuusuario/facerec) |
 
-> Nota: Cambia `assets/images/...` con las imágenes/GIFs reales de tus proyectos y los links a tus repositorios.
-> Nota: Cambia `assets/images/...` con las imágenes o GIFs reales de tus proyectos y los enlaces a tus repositorios.
 
 ---
 
