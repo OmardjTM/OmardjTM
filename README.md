@@ -62,5 +62,4 @@ Actualmente estoy explorando y practicando **Inteligencia Artificial**, integran
 ## ⚡ Extras
 
 Me encanta perfeccionar cada detalle y asegurarme de que mis proyectos sean **fáciles de usar y entender** para cualquier persona, independientemente de su nivel técnico.
-Me gusta perfeccionar cada detalle y asegurarme de que mis proyectos sean **fáciles de usar y entender** para cualquier persona, independientemente de su nivel técnico.  
 Busco siempre que cada proyecto cumpla su objetivo y sea **intuitivo, eficiente y confiable**.
